@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mocharezky04
+- 👋 Hi, I’m Rezky
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning idk
 
