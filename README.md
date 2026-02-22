@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Rezky
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning idk
+- 👀 I’m interested in programming and cybersecurity (especially in blue team)
+- 🌱 I’m currently learning 
