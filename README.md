@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 Mahasiswa Sistem Informasi<br>Sekarang lagi belajar atau menempuh BlueTeams CyberSecurity (SOC Analyst<br>Fun fact saya rada malas orangnya
+# About Me:
+Mahasiswa Sistem Informasi<br>Sekarang lagi belajar atau menempuh BlueTeams CyberSecurity (SOC Analyst<br>Fun fact saya rada malas orangnya
 
 
 ## 🌐 Socials:
